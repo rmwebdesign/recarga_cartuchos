@@ -10,6 +10,7 @@
  * @package WordPress
  * @subpackage Twenty_Eleven
  * @since Twenty Eleven 1.0
+ Mais um arquivo pro commit
  */
 
 get_header(); ?>
